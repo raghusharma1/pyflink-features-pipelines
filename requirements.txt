@@ -1,0 +1,7 @@
+boto3
+fastavro
+pydantic
+pyflink
+pytest
+pytz
+testcontainers
